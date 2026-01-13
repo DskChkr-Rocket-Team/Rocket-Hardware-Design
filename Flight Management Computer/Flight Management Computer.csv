@@ -1,0 +1,21 @@
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet
+BAT?,1,CR1220,,,,,https://api.pim.na.industrial.panasonic.com/file_stream/main/fileversion/3637
+"C1,C2",2,2.2u,,,,,https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R71A225KE15-01.pdf
+"C3,C4,C5,C6,C7,C8,C9,C10,C11,C22,C24",11,0.1u,,,,,https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71C104KA88-01.pdf
+"C12,C13",2,22u,,,,,https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BR61A226ME44-01.pdf
+"C14,C15,C16,C17,C23",5,10u,,,,,https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R61A106ME69-01.pdf
+"C18,C19",2,10p,,,,,https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM1555C1H100JA01-01.pdf
+"C20,C21",2,5p,,,,,https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM1555C1H5R0BA01-01.pdf
+D1,1,BAT54C,,,,Package_TO_SOT_SMD:SOT-23,http://www.diodes.com/_files/datasheets/ds11005.pdf
+D2,1,WL-SFTW_3528_PLCC4,,,,WL-SFTW_3528_PLCC4:WL-SFTW_3528_PLCC4,https://www.we-online.com/components/products/datasheet/150141M173100.pdf
+J1,1,503398-1892,,,,503398-1892:MOLEX_503398-1892,https://www.molex.com/en-us/products/part-detail/5033981892?display=pdf
+L1,1,600Ω/100MHz,,,,,https://www.murata.com/en-us/products/productdata/8796738650142/ENFA0003.pdf
+"R1,R4,R5,R6",4,1k,,,,,https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L
+R2,1,10,,,,,https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L
+R3,1,NC,,,,,https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L
+"R7,R8,R9,R10,R11",5,10k,,,,,https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L
+SW1,1,SW_SPST,,,,,https://tech.alpsalpine.com/cms.media/SKQGAF_KQG_706_EN_18ba0d0cc8.pdf
+U1,1,AMS1117-3.3,,,,Package_TO_SOT_SMD:SOT-223-3_TabPin2,http://www.advanced-monolithic.com/pdf/ds1117.pdf
+"U?,U?",1,STM32H750VBT6,,,,Package_QFP:LQFP-100_14x14mm_P0.5mm,https://www.st.com/resource/en/datasheet/stm32h750vb.pdf
+Y1,1,25MHz,,,,,http://www.txccrystal.com/images/pdf/7m.pdf
+Y2,1,32.768KHz,,,,,https://support.epson.biz/td/api/doc_check.php?dl=brief_FC-135R&lang=en
